@@ -1,0 +1,2 @@
+# End-to-End-Data-Engineering-Pipeline-using-Azure-Data-Factory-Databricks
+This project demonstrates an end-to-end cloud data engineering pipeline built using Azure Data Factory (ADF) and Azure Databricks. The pipeline ingests raw data from an external source, performs scalable data transformations using Databricks (Apache Spark), and loads curated data into an Azure SQL Database for analytics and reporting.
